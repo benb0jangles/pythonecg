@@ -71,7 +71,7 @@ This is a simplified version of a more comprehensive ECG application. If you nee
 
 ![PythonECG Screenshot](https://github.com/benb0jangles/pythonecg/blob/main/Screenshot%202025-03-29%20182736.png)
 
-
+![pythonecg gif](https://github.com/benb0jangles/pythonecg/blob/main/ecg.gif)
 ## License
 
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
