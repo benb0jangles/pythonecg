@@ -2,7 +2,7 @@
 
 A lightweight Python application for real-time ECG (Electrocardiogram) signal visualization from audio input.
 
-![PythonECG Screenshot](https://github.com/benb0jangles/pythonecg/raw/main/screenshot.png)
+![PythonECG Screenshot](https://github.com/benb0jangles/pythonecg/blob/main/Screenshot%202025-04-02%20232224.png)
 
 ## Overview
 
