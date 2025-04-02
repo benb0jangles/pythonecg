@@ -6,7 +6,7 @@ A lightweight Python application for real-time ECG (Electrocardiogram) signal vi
 
 ## Overview
 
-PythonECG is a simple desktop application that allows you to visualize ECG-like signals captured from your computer's audio input. It's designed to be minimalist and focuses solely on real-time visualization.
+PythonECG is a simple desktop application that allows you to visualize ECG machine signals captured from your computer's audio input. It's designed to be minimalist and focuses solely on real-time visualization.
 
 This tool can be used for:
 - Educational demonstrations of signal processing
@@ -16,7 +16,7 @@ This tool can be used for:
 
 ## Features
 
-- Real-time audio signal visualization with ECG-like display
+- Real-time audio signal visualization with ECG-like display, simply connect your ecg using cro output to pc soundcard
 - Simple toggle button to start/stop signal tracing
 - Automatic scaling to show the last 10 seconds of data
 - Clean, medical-inspired interface with grid lines
@@ -49,7 +49,7 @@ This tool can be used for:
 
 ## Usage
 
-1. Connect an audio input device to your computer (microphone, line-in, etc.)
+1. Connect an ecg machine cro output to your computer (microphone, line-in, etc.)
 2. Launch the application
 3. Click "Start Tracing" to begin visualizing the audio signal
 4. Click "Stop Tracing" to halt the visualization
@@ -67,11 +67,22 @@ The application captures audio from your system's input device at a sampling rat
 
 ## Extending the Application
 
-This is a simplified version of a more comprehensive ECG application. If you need additional features such as recording, file operations, or settings adjustment, you can extend this codebase as needed.
+This is a simplified version of a more comprehensive ECG application. If you need additional features such as recording, file operations, or settings adjustment, you can extend this codebase as needed, or sponsor me and get full featured version which includes tons of features, automatic diagnostics, recording, patient info input, lots more.
+
+![PythonECG Screenshot](https://github.com/benb0jangles/pythonecg/blob/main/Screenshot%202025-04-02%20232224.png)
+
 
 ## License
 
-MIT License
+This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+
+This license:
+- Allows users to use, modify, and distribute the software
+- Requires any modified versions to be distributed under the same license
+- Requires source code to be made available when the software is used over a network
+- Makes it difficult to use the code in proprietary commercial applications without explicit permission
+
+For more details: https://www.gnu.org/licenses/agpl-3.0.en.html
 
 ## Contributing
 
