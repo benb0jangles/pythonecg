@@ -69,7 +69,7 @@ The application captures audio from your system's input device at a sampling rat
 
 This is a simplified version of a more comprehensive ECG application. If you need additional features such as recording, file operations, or settings adjustment, you can extend this codebase as needed, or sponsor me and get full featured version which includes tons of features, automatic diagnostics, recording, patient info input, lots more.
 
-![PythonECG Screenshot](https://github.com/benb0jangles/pythonecg/blob/main/Screenshot%202025-04-02%20232224.png)
+![PythonECG Screenshot](https://github.com/benb0jangles/pythonecg/blob/main/Screenshot%202025-03-29%20182736.png)
 
 
 ## License
